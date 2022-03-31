@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabiniano
 - 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning C# anda Java
+- 🌱 I’m currently learning Data Science and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
