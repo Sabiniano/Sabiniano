@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Sabiniano
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning Data Science and Python
+- 👀 I’m interested in Java, Python and Data Science
+- 🌱 I’m currently doing some courses at Cesar School 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
--       sabiniano.maia@gmail.com
+- 📫 How to reach me:                                                                                                                                         sabiniano.maia@gmail.com 
 -       https://www.linkedin.com/in/sabiniano-maia-neto/   
 
 <!---
